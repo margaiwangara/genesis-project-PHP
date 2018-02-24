@@ -1,0 +1,155 @@
+#messagemiddlepiece{
+height:540px;
+border-right:solid black thin;
+border-left:solid black thin;
+margin-left:0px;
+margin-right:270px;
+margin-top:5px;
+margin-bottom:10px;
+padding-left:20px;
+padding-top:0px;
+float:right;
+
+
+
+}
+
+#messagemiddlepiece img{
+vertical-align:bottom;
+height:15px;
+width:15px;
+
+}
+
+#messagemiddlepiece table{
+border-spacing:5px;
+
+}
+
+#profilemiddlepiece{
+height:540px;
+background-color:;
+border-right:solid black thin;
+border-left:solid black thin;
+margin-left:180px;
+margin-right:150px;
+margin-top:5px;
+padding-top:5px;
+
+}
+
+#profilemiddlepiece .errorlogin{
+font-family:calibri;
+font-size:20px;
+}
+
+#profilemiddlepiece .profname{
+font-family:berkshire swash;
+font-size:20px;
+text-align:right;
+
+}
+
+#profilemiddlepiece table table{
+
+
+}
+
+.userinfo{
+border-right:solid black thin;
+margin-right:10px;
+font-family:berkshire swash;
+float:left;
+height:90%;
+margin-top:5px;
+
+}
+
+.userspace{
+box-shadow:0px 0px 0px 2px grey;
+background-color:white;
+height:370px;
+width:663px;
+padding-left:8px;
+border-radius:10px;
+margin-left:3px;
+margin-top:5px;
+
+}
+
+.others{
+line-height:20px;
+text-align:left;
+margin-top:2px;
+
+}
+
+.others th{
+font-family:berkshire swash;
+}
+
+.others td{
+font-family:calibri;
+}
+
+.otherinfo{
+width:73%;
+}
+
+.acceptfriends{
+width:70%;
+height:100%;
+box-shadow:0px 0px 2px 2px rgba(0,0,0,0.5);
+background-color:white;
+margin-bottom:5px;
+line-height:20px;
+font-family:calibri;
+
+}
+.acceptfriends th{
+color:brown;
+}
+
+#acceptrequest{
+height:540px;
+background-color:;
+border-right:solid black thin;
+border-left:solid black thin;
+margin-left:180px;
+margin-right:150px;
+margin-top:5px;
+margin-bottom:10px;
+padding-left:20px;
+padding-top:10px;
+
+
+}
+
+#acceptrequest .errorlogin{
+font-family:calibri;
+font-size:20px;
+}
+
+#inboxcontent{
+float:left;
+position:absolute;
+margin-top:20px;
+box-shadow:0px 0px 10px grey;
+background-color:white;
+height:82%;
+width:25%;
+}
+
+#footer{
+position:absolute;
+border-top:solid black thin;
+top:94%;bottom:0%;
+width:99%;
+
+}
+
+.inboxbutton{
+float:right;
+clear:left;
+
+}
